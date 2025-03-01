@@ -53,6 +53,7 @@ A fun and interactive Wordle game built using **React.js** and **TailwindCSS**, 
 - **`src/`** → Main source directory
 
   - **`components/`** → UI components
+    - `Game.js` → Integrates all game components.
     - `GameBoard.js` → Handles the game board UI and renders the keyboard.
     - `LetterGrid.js` → Manages the Letter Grid on the GameBoard.
     - `Header.js` → Displays the game title and control icons (reset/help).
@@ -63,7 +64,7 @@ A fun and interactive Wordle game built using **React.js** and **TailwindCSS**, 
     - `gameUtils.js` → Handles letter input, removing letters, and submitting guesses.
     - `resultUtils.js` → Determines game results (win/loss) and assigns letter feedback colors.
   - **`tests/`** → Jest test cases for game logic validation.
-  - **`App.js`** → Main application file that integrates all components.
+  - **`App.js`** → Main application file that loads the Game Component.
   - **`index.js`** → Entry point of the React application.
 
 ## 🧪 Running Tests
