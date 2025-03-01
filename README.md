@@ -1,4 +1,4 @@
-# Wordle Game
+# Wordle Game- Coding Excercise
 
 A fun and interactive Wordle game built using **React.js** and **TailwindCSS**, allowing players to guess a hidden word within five attempts. The game provides feedback on letter correctness and positioning.
 
@@ -20,7 +20,7 @@ A fun and interactive Wordle game built using **React.js** and **TailwindCSS**, 
 
 - **React.js** (Frontend UI)
 - **TailwindCSS** (Styling & Responsiveness)
-- **Jest & Testing Library** (For Unit Testing)
+- **Jest** (For Unit Testing)
 - **React Icons** (For UI enhancements)
 
 ## 📦 Installation & Setup
@@ -42,7 +42,7 @@ A fun and interactive Wordle game built using **React.js** and **TailwindCSS**, 
 
 ## 🕹️ How to Play
 
-1. Start by entering any **5-letter word**.
+1. Start by entering any **5-letter word**. (this can be updated based on the list of words file)
 2. Press **ENTER** to submit your guess.
 3. The grid will change colors based on correctness.
 4. Use the on-screen keyboard or your physical keyboard to input letters.
