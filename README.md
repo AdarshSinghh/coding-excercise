@@ -77,7 +77,14 @@ npm test
 
 ## 📸 Screenshots
 
-_(Add images of the game UI if available)_
+<img width="1602" alt="image" src="https://github.com/user-attachments/assets/06baad21-6deb-4c9d-ab1e-3aedcea5721a" />
+<img width="1571" alt="image" src="https://github.com/user-attachments/assets/4904e1fe-0a75-4e2c-818b-8f183709992d" />
+<img width="1563" alt="image" src="https://github.com/user-attachments/assets/b26b0e69-ee84-45bc-9607-55666f679fea" />
+<img width="1601" alt="image" src="https://github.com/user-attachments/assets/f682d25f-e13f-48c4-ba6d-2783eb947fdd" />
+
+
+
+
 
 ## 📝 License
 
