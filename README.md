@@ -86,11 +86,6 @@ npm test
 
 
 
-
-## 📝 License
-
-This project is open-source under the **MIT License**.
-
 ---
 
 Enjoy playing Wordle! 🎉
